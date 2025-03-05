@@ -14,7 +14,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 **5. Update Your Profile:** Keep your profile up-to-date with your latest achievements, skills, or interests. This allows other users to see your growth and stay current on your expertise.
 
---------------------------------------------------------------------
+
 
 # Software Architecture Design
 
@@ -23,7 +23,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src="https://github.com/user-attachments/assets/618a1832-dcb6-44d4-98ea-9b51fb79728c"/>
 </p>
 
---------------------------------------------------------------------
+
 
 # Database Design
 
@@ -31,7 +31,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
    <img src="https://github.com/user-attachments/assets/91ae369e-a943-41cd-8b99-8eb1ed9c8e53"/>
 </p>
 
---------------------------------------------------------------------
+
 
 # Architecture Pattern 
 
