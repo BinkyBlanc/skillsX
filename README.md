@@ -1,9 +1,8 @@
 # SkillsX
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
-<p align="center">
-   <strong>How it Works:</strong>
-</p>
+
+# How it Works:
 
 **1. Create a Profile:** Start by creating a personal profile that outlines your skills, interests, and background. The more detailed and up-to-date your profile is, the better you’ll connect with others who share similar or complementary expertise.
 
@@ -17,9 +16,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-<p align="center">
-   <strong>Software Architecture Design</strong>
-</p>
+# Software Architecture Design
 
 
 <p align="center">
@@ -28,9 +25,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-<p align="center">
-   <strong>Database Design</strong>
-</p>
+# Database Design
 
 <p align="center">
    <img src=""/>
@@ -38,8 +33,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-<p align="center">
-<strong>Architecure Pattern</strong>
+# Architecure Pattern
 
 <p align="center">
    <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
