@@ -48,46 +48,16 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 **MVVM (Model-View-ViewModel) architectural pattern**
 
-api/:
+**API**: Centralized API handling and Firebase integration.
 
-Centralizes API logic, including Firebase connections and general API handling.
+**Models**: Defines data structures like user, chat, and message models.
 
-Ensures all network-related code resides in one place, making it reusable and easy to manage.
+**ViewModels**: Encapsulates business logic and manages app state for features like authentication, chat, filters, recommendations, profiles, and ratings.
 
-models/:
+**Views**: UI screens categorized into features (e.g., chat, filters, profile, recommendations).
 
-Contains data models like user_attribute, chat_user, and message, representing the structure and properties of the app’s data.
+**Widgets**: Reusable UI components to ensure consistency and reduce duplication.
 
-Simplifies data handling across the app by standardizing the way data is represented.
+**Helpers**: Utility functions for validation, constants, and the recommendation engine logic (cosine similarity).
 
-viewmodels/:
-
-Houses application logic and state management for specific features like authentication, chat, filtering, recommendations, profiles, and ratings.
-
-Separates the logic from UI, ensuring a clean and testable structure.
-
-views/:
-
-Organized into subfolders for different features (e.g., auth, chat, filters, etc.), containing individual screens like log_screen or chat_home.
-
-Focuses purely on displaying data and interacting with the user.
-
-widgets/:
-
-Contains reusable UI components such as star_rating_widget and chat_bubble_widget.
-
-Encourages consistency in design and reduces code duplication.
-
-helpers/:
-
-Includes utility files and helper functions like cosine_similarity (recommendation engine logic) and validator (input validation).
-
-Keeps reusable logic separate from feature-specific code.
-
-firebase_options.dart:
-
-Manages Firebase configuration, typically generated when integrating Firebase into the app.
-
-main.dart:
-
-The entry point for the app, where the app is bootstrapped and the primary widget tree is defined.
+**Main Files**: firebase_options.dart for Firebase configuration and main.dart as the app’s entry point.
