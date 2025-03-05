@@ -48,7 +48,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 **Models**: Defines data structures like user, chat, and message models.
 
 
-**ViewModels**: Encapsulates business logic and manages app state for features like authentication, chat, notifications, filters, recommendations, profiles,
+**ViewModels**: Encapsulates business logic and manages app state for features like authentication, chat messaging, filters, recommendations, profiles,
 and user ratings.
 
 
