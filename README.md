@@ -61,3 +61,20 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 **Helpers**: Utility functions for validation, constants, and the recommendation engine logic (cosine similarity).
 
 **Main Files**: firebase_options.dart for Firebase configuration and main.dart as the app’s entry point.
+
+
+Model:
+User (with attributes like name, skills, career, hobbies, interests)
+Message (for chat functionality)
+Notification
+Rating (for star ratings)
+
+View:
+home, chat, notification, profile, etc.
+
+ViewModel:
+UserViewModel (exposes user data and methods for profile management)
+ChatViewModel (exposes chat data and methods for sending/receiving messages)
+NotificationViewModel (exposes notification data and methods for managing notifications)
+RecommendationViewModel (exposes recommended users and methods for fetching recommendations)
+SearchViewModel (exposes filtered user data and methods for applying filters)
