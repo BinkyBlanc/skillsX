@@ -14,7 +14,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 **5. Update Your Profile:** Keep your profile up-to-date with your latest achievements, skills, or interests. This allows other users to see your growth and stay current on your expertise.
 
 
-<b align="center" style="font-size: 24px; font-weight: 900;">
+<b align="center" style="font-size: 24px; font-weight: 900; text-align: center">
   Software Architecture Diagram
 </b>
 
