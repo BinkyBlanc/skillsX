@@ -42,19 +42,26 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 
 
-**API**: Centralized API handling and Firebase integration.
+**API**: 
+Centralized API handling and Firebase integration.
 
-**Models**: Defines data structures like user, chat, and message models.
+**Models**: 
+Defines data structures like user, chat, and message models.
 
-**ViewModels**: Encapsulates business logic and manages app state for features like authentication, chat, filters, recommendations, profiles,
+**ViewModels**: 
+Encapsulates business logic and manages app state for features like authentication, chat, filters, recommendations, profiles,
 and ratings.
 
-**Views**: UI screens categorized into features (e.g., chat, filters, profile, recommendations).
+**Views**: 
+UI screens categorized into features (e.g., chat, filters, profile, recommendations).
 
-**Widgets**: Reusable UI components to ensure consistency and reduce duplication.
+**Widgets**: 
+Reusable UI components to ensure consistency and reduce duplication.
 
-**Helpers**: Utility functions for validation, constants, and the recommendation engine logic (cosine similarity).
+**Helpers**: 
+Utility functions for validation, constants, and the recommendation engine logic (cosine similarity).
 
-**Main Files**: firebase_options.dart for Firebase configuration and main.dart as the app’s entry point.
+**Main Files**: 
+firebase_options.dart for Firebase configuration and main.dart as the app’s entry point.
 
 
