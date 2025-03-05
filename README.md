@@ -33,14 +33,13 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-# Architecture Pattern
+# Architecture Pattern - MVVM (Model-View-ViewModel)
 
 <p align="center">
    <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
 </p>
 
 
-**MVVM (Model-View-ViewModel)*
 
 **API**: Centralized API handling and Firebase integration.
 
