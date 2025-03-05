@@ -64,5 +64,11 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 **Main Files**: firebase_options.dart for Firebase configuration and main.dart as the app’s entry point.
 
 
+# Use Case Diagram 
+<p>
+  <img src = "https://github.com/user-attachments/assets/e1640ef7-6656-4aad-b37c-65635a812e15"/>
+</p>
+
+
 
 
