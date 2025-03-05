@@ -33,7 +33,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-# Architecure Pattern
+# Architecture Pattern
 
 <p align="center">
    <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
