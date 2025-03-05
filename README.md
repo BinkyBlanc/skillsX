@@ -1,4 +1,4 @@
-3# SkillsX
+# SkillsX
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
 
