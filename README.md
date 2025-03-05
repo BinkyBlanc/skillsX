@@ -1,4 +1,4 @@
-# SkillsX
+![image](https://github.com/user-attachments/assets/5611da11-d421-4732-8f07-bc2359024816)# SkillsX
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
 <p align="center">
@@ -36,4 +36,12 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
    <img src=""/>
 </p>
 
-   
+--------------------------------------------------------------------
+
+<p align="center">
+<strong>Design Pattern</strong>
+
+<p align="center">
+   <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
+</p>
+
