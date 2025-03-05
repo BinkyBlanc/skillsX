@@ -45,3 +45,49 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
    <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
 </p>
 
+
+**MVVM (Model-View-ViewModel) architectural pattern**
+
+api/:
+
+Centralizes API logic, including Firebase connections and general API handling.
+
+Ensures all network-related code resides in one place, making it reusable and easy to manage.
+
+models/:
+
+Contains data models like user_attribute, chat_user, and message, representing the structure and properties of the app’s data.
+
+Simplifies data handling across the app by standardizing the way data is represented.
+
+viewmodels/:
+
+Houses application logic and state management for specific features like authentication, chat, filtering, recommendations, profiles, and ratings.
+
+Separates the logic from UI, ensuring a clean and testable structure.
+
+views/:
+
+Organized into subfolders for different features (e.g., auth, chat, filters, etc.), containing individual screens like log_screen or chat_home.
+
+Focuses purely on displaying data and interacting with the user.
+
+widgets/:
+
+Contains reusable UI components such as star_rating_widget and chat_bubble_widget.
+
+Encourages consistency in design and reduces code duplication.
+
+helpers/:
+
+Includes utility files and helper functions like cosine_similarity (recommendation engine logic) and validator (input validation).
+
+Keeps reusable logic separate from feature-specific code.
+
+firebase_options.dart:
+
+Manages Firebase configuration, typically generated when integrating Firebase into the app.
+
+main.dart:
+
+The entry point for the app, where the app is bootstrapped and the primary widget tree is defined.
