@@ -20,7 +20,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97647304-7441-4c66-beb1-030cff6b0568"/>
+  <img src="https://github.com/user-attachments/assets/528d1eac-f899-406d-ac7b-0f87f4c5405c"/>
 </p>
 
 --------------------------------------------------------------------
@@ -28,7 +28,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 # Database Design
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/44d41731-2c71-407f-abea-ae49a60ceb08"/>
+   <img src="https://github.com/user-attachments/assets/5063c01f-3d11-4bc5-9c26-23ed61b5f7c8"/>
 "/>
 </p>
 
@@ -37,7 +37,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 # Architecture Pattern 
 
 <p align="center">
-   <strong><img src = "https://github.com/user-attachments/assets/46a48efa-aa88-4c50-af2d-9de33ae4405c"/></strong>
+   <strong><img src = "https://github.com/user-attachments/assets/4b763ba4-3326-4cea-b6cb-e5305d58927d"/></strong>
 </p>
 
 
