@@ -16,7 +16,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 # Wireframe
 
-# Mock-up
+# Mockup
 
 # Prototype
 
