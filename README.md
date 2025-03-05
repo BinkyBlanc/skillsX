@@ -15,8 +15,8 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------
 
-<p align="center" style="font-size: 24px; font-weight: bold text-align: center;">
-   Software Architecture Design                                   
+<p align="center">
+   <strong>Software Architecture Design</strong>
 </p>
 
 
